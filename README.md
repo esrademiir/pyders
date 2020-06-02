@@ -1,3 +1,3 @@
 # pyders
-python dersinde yazılan hemen hemen herşey 
-açıklma satırı eklenmeyecektir...
+python dersinde yazılan hemen hemen her şey 
+
